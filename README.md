@@ -9,11 +9,11 @@ using pig analyzing tweets regarding demonetization and filtering out positive t
 tweets header "","text","favorited","favoriteCount","replyToSN","created","truncated","replyToSID","id","replyToUID","statusSource","screenName","retweetCount","isRetweet","retweeted"
 <img src="https://github.com/itsvikas0304/demonetization_tweets_analysis/blob/main/images/Screenshot%20(77).png">
 
-#positive tweets
+# positive tweets
 
 <img src="https://github.com/itsvikas0304/demonetization_tweets_analysis/blob/main/images/Screenshot%20(80).png">
 
-#negative tweets
+# negative tweets
 
 <img src="https://github.com/itsvikas0304/demonetization_tweets_analysis/blob/main/images/Screenshot%20(81).png">
 
